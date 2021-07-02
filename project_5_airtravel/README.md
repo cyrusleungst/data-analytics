@@ -4,5 +4,5 @@ Data Engineering and EDA project aiming to gain insight on flight delay causes a
 
 | File 	| Description 	|
 |-	|-	|
-|  	|  	|
+| 	|  	|
 |  	|  	|
