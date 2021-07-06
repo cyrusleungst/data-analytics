@@ -1,0 +1,528 @@
+carrier,day_of_month,avg_delay
+Alaska Airlines Inc.,1,4.36468330134357
+Alaska Airlines Inc.,2,4.7481520591341075
+Alaska Airlines Inc.,3,6.861425061425061
+Alaska Airlines Inc.,4,43.31305201177625
+Alaska Airlines Inc.,5,29.1234693877551
+Alaska Airlines Inc.,6,20.427254098360656
+Alaska Airlines Inc.,7,20.875242718446604
+Alaska Airlines Inc.,8,19.17595907928389
+Alaska Airlines Inc.,9,25.823596142938175
+Alaska Airlines Inc.,10,24.185786802030456
+Alaska Airlines Inc.,11,23.210445468509985
+Alaska Airlines Inc.,12,13.534127843987
+Alaska Airlines Inc.,13,4.846311475409836
+Alaska Airlines Inc.,14,16.472646623952684
+Alaska Airlines Inc.,15,8.327398615232443
+Alaska Airlines Inc.,16,4.363733333333333
+Alaska Airlines Inc.,17,5.948428290766208
+Alaska Airlines Inc.,18,3.1476510067114094
+Alaska Airlines Inc.,19,-4.616219008264463
+Alaska Airlines Inc.,20,0.11901159858799798
+Alaska Airlines Inc.,21,9.142651986596457
+Alaska Airlines Inc.,22,9.38149430974765
+Alaska Airlines Inc.,23,-3.0573986308583465
+Alaska Airlines Inc.,24,-2.256198347107438
+Alaska Airlines Inc.,25,4.532141130981151
+Alaska Airlines Inc.,26,-3.1530506721820064
+Alaska Airlines Inc.,27,2.9965
+Alaska Airlines Inc.,28,-3.953333333333333
+Alaska Airlines Inc.,29,-10.55157278712509
+Alaska Airlines Inc.,30,-10.763341067285383
+Alaska Airlines Inc.,31,1.9378200438917337
+Allegiant Air,1,22.472189349112426
+Allegiant Air,2,25.882275132275133
+Allegiant Air,3,17.583333333333332
+Allegiant Air,4,24.546666666666667
+Allegiant Air,5,14.43400447427293
+Allegiant Air,6,17.717299578059073
+Allegiant Air,7,13.9717277486911
+Allegiant Air,8,7.048433048433049
+Allegiant Air,9,7.865248226950355
+Allegiant Air,10,10.46284501061571
+Allegiant Air,11,13.281997918834547
+Allegiant Air,12,-0.38148984198645597
+Allegiant Air,13,8.378345498783455
+Allegiant Air,14,7.296523517382413
+Allegiant Air,15,27.581208053691274
+Allegiant Air,16,15.685847589424572
+Allegiant Air,17,16.27327935222672
+Allegiant Air,18,18.84122287968442
+Allegiant Air,19,10.228519195612432
+Allegiant Air,20,15.256020278833967
+Allegiant Air,21,21.67608476286579
+Allegiant Air,22,5.938088829071332
+Allegiant Air,23,12.809597523219814
+Allegiant Air,24,15.747474747474747
+Allegiant Air,25,9.63573543928924
+Allegiant Air,26,1.1516666666666666
+Allegiant Air,27,19.491186839012926
+Allegiant Air,28,15.206030150753769
+Allegiant Air,29,-3.9655172413793105
+Allegiant Air,30,3.770780856423174
+Allegiant Air,31,20.51896813353566
+American Airlines Inc.,1,21.802575660012877
+American Airlines Inc.,2,16.174175035868007
+American Airlines Inc.,3,13.683618063832604
+American Airlines Inc.,4,10.644364845848791
+American Airlines Inc.,5,7.737162629757785
+American Airlines Inc.,6,4.590191953720747
+American Airlines Inc.,7,7.781388291819447
+American Airlines Inc.,8,8.91810570381999
+American Airlines Inc.,9,18.12413488440583
+American Airlines Inc.,10,18.874589625738675
+American Airlines Inc.,11,9.627753023551877
+American Airlines Inc.,12,13.882825040128411
+American Airlines Inc.,13,30.285871206920227
+American Airlines Inc.,14,18.214958025947595
+American Airlines Inc.,15,14.548403841162731
+American Airlines Inc.,16,7.968045649072753
+American Airlines Inc.,17,19.540928050052138
+American Airlines Inc.,18,16.484507398507652
+American Airlines Inc.,19,17.830866503808018
+American Airlines Inc.,20,20.30472222222222
+American Airlines Inc.,21,18.602683178534573
+American Airlines Inc.,22,24.961186912173797
+American Airlines Inc.,23,17.209412780656304
+American Airlines Inc.,24,23.186745406824148
+American Airlines Inc.,25,20.313826366559486
+American Airlines Inc.,26,8.094178561432969
+American Airlines Inc.,27,9.025587193281721
+American Airlines Inc.,28,20.12052706368686
+American Airlines Inc.,29,4.557965139845967
+American Airlines Inc.,30,8.418867072895509
+American Airlines Inc.,31,18.208750766714374
+American Eagle Airlines Inc.,1,29.3262987012987
+American Eagle Airlines Inc.,2,24.73734939759036
+American Eagle Airlines Inc.,3,10.199188640973631
+American Eagle Airlines Inc.,4,5.744761904761905
+American Eagle Airlines Inc.,5,0.5744590581247349
+American Eagle Airlines Inc.,6,5.1656828020464385
+American Eagle Airlines Inc.,7,14.957175925925926
+American Eagle Airlines Inc.,8,14.21727343144849
+American Eagle Airlines Inc.,9,12.936776061776062
+American Eagle Airlines Inc.,10,24.120844739929606
+American Eagle Airlines Inc.,11,14.65188897455667
+American Eagle Airlines Inc.,12,18.439764936336925
+American Eagle Airlines Inc.,13,19.37682926829268
+American Eagle Airlines Inc.,14,14.050058662495111
+American Eagle Airlines Inc.,15,20.681344148319816
+American Eagle Airlines Inc.,16,0.35443037974683544
+American Eagle Airlines Inc.,17,34.131093814010654
+American Eagle Airlines Inc.,18,36.61662817551963
+American Eagle Airlines Inc.,19,20.900980392156864
+American Eagle Airlines Inc.,20,32.411029728565275
+American Eagle Airlines Inc.,21,10.128885519332828
+American Eagle Airlines Inc.,22,13.462809917355372
+American Eagle Airlines Inc.,23,27.172447484123108
+American Eagle Airlines Inc.,24,29.08873297565002
+American Eagle Airlines Inc.,25,28.674330946098756
+American Eagle Airlines Inc.,26,16.529718004338395
+American Eagle Airlines Inc.,27,1.8619740464018875
+American Eagle Airlines Inc.,28,16.888043937473594
+American Eagle Airlines Inc.,29,5.21981981981982
+American Eagle Airlines Inc.,30,11.28595178719867
+American Eagle Airlines Inc.,31,7.058663028649386
+Atlantic Southeast Airlines,1,45.36854838709677
+Atlantic Southeast Airlines,2,30.945105215004574
+Atlantic Southeast Airlines,3,22.096694214876035
+Atlantic Southeast Airlines,4,11.610492845786963
+Atlantic Southeast Airlines,5,11.540111199364574
+Atlantic Southeast Airlines,6,8.686737184703011
+Atlantic Southeast Airlines,7,19.704545454545453
+Atlantic Southeast Airlines,8,14.363418530351439
+Atlantic Southeast Airlines,9,20.74231464737794
+Atlantic Southeast Airlines,10,31.428934010152282
+Atlantic Southeast Airlines,11,28.563847429519072
+Atlantic Southeast Airlines,12,36.394837476099426
+Atlantic Southeast Airlines,13,34.012798634812285
+Atlantic Southeast Airlines,14,25.9144
+Atlantic Southeast Airlines,15,20.62063492063492
+Atlantic Southeast Airlines,16,16.11488970588235
+Atlantic Southeast Airlines,17,20.54977973568282
+Atlantic Southeast Airlines,18,32.48604269293924
+Atlantic Southeast Airlines,19,26.1
+Atlantic Southeast Airlines,20,41.64627659574468
+Atlantic Southeast Airlines,21,43.0625507717303
+Atlantic Southeast Airlines,22,33.42749371332774
+Atlantic Southeast Airlines,23,47.7689497716895
+Atlantic Southeast Airlines,24,41.58892617449664
+Atlantic Southeast Airlines,25,32.02627388535032
+Atlantic Southeast Airlines,26,21.582482993197278
+Atlantic Southeast Airlines,27,19.367346938775512
+Atlantic Southeast Airlines,28,26.90573770491803
+Atlantic Southeast Airlines,29,21.746987951807228
+Atlantic Southeast Airlines,30,29.305832147937412
+Atlantic Southeast Airlines,31,41.34207077326344
+Comair Inc.,1,35.47980251346499
+Comair Inc.,2,4.502865329512894
+Comair Inc.,3,10.179646017699115
+Comair Inc.,4,0.9661160525201186
+Comair Inc.,5,7.187073281747838
+Comair Inc.,6,5.7633986928104575
+Comair Inc.,7,5.186780383795309
+Comair Inc.,8,12.443312666076174
+Comair Inc.,9,6.5606936416184976
+Comair Inc.,10,16.013626373626373
+Comair Inc.,11,17.080445014976466
+Comair Inc.,12,8.781390695347675
+Comair Inc.,13,19.367633302151543
+Comair Inc.,14,14.934014474244359
+Comair Inc.,15,9.749673487157162
+Comair Inc.,16,0.8036127836961556
+Comair Inc.,17,18.38040222507488
+Comair Inc.,18,13.107640354579992
+Comair Inc.,19,21.411010915994304
+Comair Inc.,20,25.09163346613546
+Comair Inc.,21,24.43134598012647
+Comair Inc.,22,17.868244752121484
+Comair Inc.,23,12.169820475497332
+Comair Inc.,24,27.699322799097065
+Comair Inc.,25,15.908333333333333
+Comair Inc.,26,7.05039297272307
+Comair Inc.,27,4.286085825747724
+Comair Inc.,28,0.7245943637916311
+Comair Inc.,29,6.982911825017088
+Comair Inc.,30,3.149645390070922
+Comair Inc.,31,10.820479585223591
+Delta Air Lines Inc.,1,7.162639536526777
+Delta Air Lines Inc.,2,4.604027909927054
+Delta Air Lines Inc.,3,10.070958083832336
+Delta Air Lines Inc.,4,16.34322257383966
+Delta Air Lines Inc.,5,0.23990999859372802
+Delta Air Lines Inc.,6,4.382904435536014
+Delta Air Lines Inc.,7,13.13402571711177
+Delta Air Lines Inc.,8,4.759021101261081
+Delta Air Lines Inc.,9,1.2690332326283988
+Delta Air Lines Inc.,10,5.966968911917099
+Delta Air Lines Inc.,11,2.9434078833559867
+Delta Air Lines Inc.,12,17.200846262341326
+Delta Air Lines Inc.,13,7.420072897682895
+Delta Air Lines Inc.,14,7.542129972819373
+Delta Air Lines Inc.,15,5.609443129438146
+Delta Air Lines Inc.,16,-3.281221233507211
+Delta Air Lines Inc.,17,0.8157418995967182
+Delta Air Lines Inc.,18,4.319750778816199
+Delta Air Lines Inc.,19,7.519571428571428
+Delta Air Lines Inc.,20,41.12984469007976
+Delta Air Lines Inc.,21,24.07372754491018
+Delta Air Lines Inc.,22,10.000377073906487
+Delta Air Lines Inc.,23,14.111009732360097
+Delta Air Lines Inc.,24,12.369236729949632
+Delta Air Lines Inc.,25,8.693968175650673
+Delta Air Lines Inc.,26,-5.272879932829555
+Delta Air Lines Inc.,27,-0.7960051546391752
+Delta Air Lines Inc.,28,5.0118709039198714
+Delta Air Lines Inc.,29,-5.651039697542533
+Delta Air Lines Inc.,30,8.002525252525253
+Delta Air Lines Inc.,31,1.9579988799701324
+Frontier Airlines Inc.,1,28.44012944983819
+Frontier Airlines Inc.,2,28.80701754385965
+Frontier Airlines Inc.,3,17.895266868076536
+Frontier Airlines Inc.,4,26.28061224489796
+Frontier Airlines Inc.,5,14.093714285714286
+Frontier Airlines Inc.,6,13.115600448933781
+Frontier Airlines Inc.,7,22.74668028600613
+Frontier Airlines Inc.,8,9.311758360302049
+Frontier Airlines Inc.,9,23.991869918699187
+Frontier Airlines Inc.,10,19.435845213849287
+Frontier Airlines Inc.,11,11.936983471074381
+Frontier Airlines Inc.,12,6.660756501182033
+Frontier Airlines Inc.,13,14.4825
+Frontier Airlines Inc.,14,36.08271474019088
+Frontier Airlines Inc.,15,11.552492046659596
+Frontier Airlines Inc.,16,16.61768082663605
+Frontier Airlines Inc.,17,14.588588588588589
+Frontier Airlines Inc.,18,22.820328542094455
+Frontier Airlines Inc.,19,4.787283236994219
+Frontier Airlines Inc.,20,17.614285714285714
+Frontier Airlines Inc.,21,20.7584789311408
+Frontier Airlines Inc.,22,22.696256684491978
+Frontier Airlines Inc.,23,19.797701149425286
+Frontier Airlines Inc.,24,21.004069175991862
+Frontier Airlines Inc.,25,16.282497441146365
+Frontier Airlines Inc.,26,14.497716894977168
+Frontier Airlines Inc.,27,30.27735644637053
+Frontier Airlines Inc.,28,25.123076923076923
+Frontier Airlines Inc.,29,24.73970345963756
+Frontier Airlines Inc.,30,21.119217081850532
+Frontier Airlines Inc.,31,19.61846153846154
+Hawaiian Airlines Inc.,1,9.351632047477745
+Hawaiian Airlines Inc.,2,6.069551777434312
+Hawaiian Airlines Inc.,3,-0.9377845220030349
+Hawaiian Airlines Inc.,4,3.161242603550296
+Hawaiian Airlines Inc.,5,-0.5377643504531722
+Hawaiian Airlines Inc.,6,3.5224550898203595
+Hawaiian Airlines Inc.,7,10.621283255086071
+Hawaiian Airlines Inc.,8,2.1363636363636362
+Hawaiian Airlines Inc.,9,7.558917197452229
+Hawaiian Airlines Inc.,10,6.2086553323029365
+Hawaiian Airlines Inc.,11,0.6467889908256881
+Hawaiian Airlines Inc.,12,1.5497630331753554
+Hawaiian Airlines Inc.,13,3.5808936825885977
+Hawaiian Airlines Inc.,14,5.811232449297972
+Hawaiian Airlines Inc.,15,10.629793510324484
+Hawaiian Airlines Inc.,16,6.12210200927357
+Hawaiian Airlines Inc.,17,6.027190332326284
+Hawaiian Airlines Inc.,18,10.909620991253645
+Hawaiian Airlines Inc.,19,16.412673879443584
+Hawaiian Airlines Inc.,20,5.079510703363915
+Hawaiian Airlines Inc.,21,6.554198473282443
+Hawaiian Airlines Inc.,22,10.136498516320474
+Hawaiian Airlines Inc.,23,-0.08641975308641975
+Hawaiian Airlines Inc.,24,1.5610119047619047
+Hawaiian Airlines Inc.,25,4.820089955022489
+Hawaiian Airlines Inc.,26,3.888364779874214
+Hawaiian Airlines Inc.,27,-1.2102009273570324
+Hawaiian Airlines Inc.,28,4.775700934579439
+Hawaiian Airlines Inc.,29,-4.979638009049774
+Hawaiian Airlines Inc.,30,-2.983293556085919
+Hawaiian Airlines Inc.,31,-1.9074074074074074
+JetBlue Airways,1,55.8322528363047
+JetBlue Airways,2,34.47703842549203
+JetBlue Airways,3,30.712809917355372
+JetBlue Airways,4,72.39915966386555
+JetBlue Airways,5,31.83890317052271
+JetBlue Airways,6,16.91031941031941
+JetBlue Airways,7,12.881018702745722
+JetBlue Airways,8,28.98058653448988
+JetBlue Airways,9,6.495154591601292
+JetBlue Airways,10,32.889770354906055
+JetBlue Airways,11,7.001214083367058
+JetBlue Airways,12,25.94349477682811
+JetBlue Airways,13,25.391489361702128
+JetBlue Airways,14,13.961290322580645
+JetBlue Airways,15,32.210398050365555
+JetBlue Airways,16,19.078912757562474
+JetBlue Airways,17,16.440422936152906
+JetBlue Airways,18,33.28605865809562
+JetBlue Airways,19,14.32095238095238
+JetBlue Airways,20,35.28131212723658
+JetBlue Airways,21,79.45186136071887
+JetBlue Airways,22,65.83897950648264
+JetBlue Airways,23,28.54234313295305
+JetBlue Airways,24,47.68969849246231
+JetBlue Airways,25,34.153753026634384
+JetBlue Airways,26,17.46655231560892
+JetBlue Airways,27,21.502240325865582
+JetBlue Airways,28,35.580414012738856
+JetBlue Airways,29,5.7901159243441125
+JetBlue Airways,30,27.48772395487724
+JetBlue Airways,31,40.46523076923077
+Mesa Airlines Inc.,1,24.590273896031302
+Mesa Airlines Inc.,2,23.018856065367693
+Mesa Airlines Inc.,3,33.50694830461367
+Mesa Airlines Inc.,4,26.232162458836445
+Mesa Airlines Inc.,5,9.646341463414634
+Mesa Airlines Inc.,6,8.081552305961754
+Mesa Airlines Inc.,7,11.821760524876982
+Mesa Airlines Inc.,8,10.172625698324023
+Mesa Airlines Inc.,9,26.438321853475266
+Mesa Airlines Inc.,10,23.22265193370166
+Mesa Airlines Inc.,11,21.97161936560935
+Mesa Airlines Inc.,12,20.191677175283733
+Mesa Airlines Inc.,13,31.4506683640993
+Mesa Airlines Inc.,14,24.00453257790368
+Mesa Airlines Inc.,15,18.43441226575809
+Mesa Airlines Inc.,16,9.802671523983
+Mesa Airlines Inc.,17,15.373251259093452
+Mesa Airlines Inc.,18,18.92888643880926
+Mesa Airlines Inc.,19,19.42059553349876
+Mesa Airlines Inc.,20,19.10287081339713
+Mesa Airlines Inc.,21,20.533003300330034
+Mesa Airlines Inc.,22,23.23037831733484
+Mesa Airlines Inc.,23,19.657265481299817
+Mesa Airlines Inc.,24,15.049052396878484
+Mesa Airlines Inc.,25,15.804986149584488
+Mesa Airlines Inc.,26,16.32129963898917
+Mesa Airlines Inc.,27,24.944729344729346
+Mesa Airlines Inc.,28,31.409317803660567
+Mesa Airlines Inc.,29,11.38135593220339
+Mesa Airlines Inc.,30,8.473867595818815
+Mesa Airlines Inc.,31,17.239669421487605
+"Midwest Airline, Inc.",1,39.241549876339654
+"Midwest Airline, Inc.",2,18.724316682375118
+"Midwest Airline, Inc.",3,2.8898267436694804
+"Midwest Airline, Inc.",4,-1.1293747542272905
+"Midwest Airline, Inc.",5,-5.975809758097581
+"Midwest Airline, Inc.",6,-4.451124903025601
+"Midwest Airline, Inc.",7,3.4613106256941872
+"Midwest Airline, Inc.",8,7.608053195419283
+"Midwest Airline, Inc.",9,7.696065128900949
+"Midwest Airline, Inc.",10,28.8779046868846
+"Midwest Airline, Inc.",11,8.205947136563877
+"Midwest Airline, Inc.",12,4.099618684461392
+"Midwest Airline, Inc.",13,1.3485784919653894
+"Midwest Airline, Inc.",14,4.151795631247686
+"Midwest Airline, Inc.",15,12.4375
+"Midwest Airline, Inc.",16,-1.7611336032388665
+"Midwest Airline, Inc.",17,14.010187449062755
+"Midwest Airline, Inc.",18,19.485408200960475
+"Midwest Airline, Inc.",19,1.903986283754822
+"Midwest Airline, Inc.",20,27.354881854658938
+"Midwest Airline, Inc.",21,31.67132075471698
+"Midwest Airline, Inc.",22,22.754359363153906
+"Midwest Airline, Inc.",23,21.908310749774163
+"Midwest Airline, Inc.",24,35.18089430894309
+"Midwest Airline, Inc.",25,36.07040062232594
+"Midwest Airline, Inc.",26,0.34055600981193784
+"Midwest Airline, Inc.",27,0.10094517958412098
+"Midwest Airline, Inc.",28,10.998139880952381
+"Midwest Airline, Inc.",29,1.9399656946826758
+"Midwest Airline, Inc.",30,25.16492693110647
+"Midwest Airline, Inc.",31,10.078947368421053
+Pinnacle Airlines Inc.,1,25.385692068429236
+Pinnacle Airlines Inc.,2,8.704234527687296
+Pinnacle Airlines Inc.,3,3.3210425937698664
+Pinnacle Airlines Inc.,4,13.736242884250474
+Pinnacle Airlines Inc.,5,-4.7347689075630255
+Pinnacle Airlines Inc.,6,-4.486676016830295
+Pinnacle Airlines Inc.,7,9.219673577415087
+Pinnacle Airlines Inc.,8,4.22961657117673
+Pinnacle Airlines Inc.,9,1.1945645460160592
+Pinnacle Airlines Inc.,10,23.054067218704336
+Pinnacle Airlines Inc.,11,8.339191564147628
+Pinnacle Airlines Inc.,12,17.806134969325154
+Pinnacle Airlines Inc.,13,11.676835081029552
+Pinnacle Airlines Inc.,14,8.221297107800176
+Pinnacle Airlines Inc.,15,20.66370106761566
+Pinnacle Airlines Inc.,16,-1.1445012787723785
+Pinnacle Airlines Inc.,17,4.517786561264822
+Pinnacle Airlines Inc.,18,16.451888489208635
+Pinnacle Airlines Inc.,19,3.795763172189028
+Pinnacle Airlines Inc.,20,35.29757785467128
+Pinnacle Airlines Inc.,21,42.20154686078253
+Pinnacle Airlines Inc.,22,25.33228133453562
+Pinnacle Airlines Inc.,23,36.33839342188488
+Pinnacle Airlines Inc.,24,43.657026889903605
+Pinnacle Airlines Inc.,25,39.39098771051434
+Pinnacle Airlines Inc.,26,2.133157894736842
+Pinnacle Airlines Inc.,27,-6.239515377446412
+Pinnacle Airlines Inc.,28,-0.588495575221239
+Pinnacle Airlines Inc.,29,-7.1152291105121295
+Pinnacle Airlines Inc.,30,22.166666666666668
+Pinnacle Airlines Inc.,31,9.98512747875354
+Skywest Airlines Inc.,1,40.21626919307416
+Skywest Airlines Inc.,2,32.74197080291971
+Skywest Airlines Inc.,3,26.183146449201494
+Skywest Airlines Inc.,4,30.480953103657612
+Skywest Airlines Inc.,5,32.23904777649198
+Skywest Airlines Inc.,6,43.55873925501432
+Skywest Airlines Inc.,7,34.044794562866855
+Skywest Airlines Inc.,8,24.22804337864671
+Skywest Airlines Inc.,9,25.39715048975957
+Skywest Airlines Inc.,10,42.28385986862684
+Skywest Airlines Inc.,11,23.51914380464275
+Skywest Airlines Inc.,12,30.909462219196733
+Skywest Airlines Inc.,13,22.012306668884083
+Skywest Airlines Inc.,14,34.333072590738425
+Skywest Airlines Inc.,15,26.946754412204605
+Skywest Airlines Inc.,16,11.202810887742395
+Skywest Airlines Inc.,17,24.393191909225457
+Skywest Airlines Inc.,18,17.901668653158524
+Skywest Airlines Inc.,19,9.742498728598067
+Skywest Airlines Inc.,20,39.2052052052052
+Skywest Airlines Inc.,21,20.898647644523702
+Skywest Airlines Inc.,22,30.818422693266832
+Skywest Airlines Inc.,23,37.09281277728483
+Skywest Airlines Inc.,24,34.5035084983627
+Skywest Airlines Inc.,25,35.19024611203382
+Skywest Airlines Inc.,26,15.831479329237922
+Skywest Airlines Inc.,27,19.781269160024525
+Skywest Airlines Inc.,28,21.34704721420981
+Skywest Airlines Inc.,29,18.02517162471396
+Skywest Airlines Inc.,30,17.342753435312417
+Skywest Airlines Inc.,31,15.881093935790725
+Southwest Airlines Co.,1,20.83339359971072
+Southwest Airlines Co.,2,26.023622047244096
+Southwest Airlines Co.,3,12.200082253752827
+Southwest Airlines Co.,4,3.7234294026729704
+Southwest Airlines Co.,5,1.5905112393077383
+Southwest Airlines Co.,6,11.867470989132437
+Southwest Airlines Co.,7,16.899181581077436
+Southwest Airlines Co.,8,8.075858397657706
+Southwest Airlines Co.,9,11.349345417925479
+Southwest Airlines Co.,10,17.205766710353867
+Southwest Airlines Co.,11,9.660295316604765
+Southwest Airlines Co.,12,14.336346478593423
+Southwest Airlines Co.,13,16.32610387084225
+Southwest Airlines Co.,14,21.540009144947415
+Southwest Airlines Co.,15,16.650488953277797
+Southwest Airlines Co.,16,6.821198063735377
+Southwest Airlines Co.,17,10.410117096018736
+Southwest Airlines Co.,18,12.302591049103098
+Southwest Airlines Co.,19,11.47343671835918
+Southwest Airlines Co.,20,13.617790335151987
+Southwest Airlines Co.,21,21.473107292150488
+Southwest Airlines Co.,22,28.30295543965596
+Southwest Airlines Co.,23,8.384035837914885
+Southwest Airlines Co.,24,10.915426634017706
+Southwest Airlines Co.,25,10.622082018927445
+Southwest Airlines Co.,26,3.923076923076923
+Southwest Airlines Co.,27,8.472170339932761
+Southwest Airlines Co.,28,7.410090556274256
+Southwest Airlines Co.,29,2.0074423930156002
+Southwest Airlines Co.,30,1.0802047781569966
+Southwest Airlines Co.,31,9.161710037174721
+Spirit Air Lines,1,17.644570707070706
+Spirit Air Lines,2,22.934877896055102
+Spirit Air Lines,3,7.064249363867685
+Spirit Air Lines,4,5.306174411203055
+Spirit Air Lines,5,-0.26399447131997233
+Spirit Air Lines,6,-1.1778846153846154
+Spirit Air Lines,7,5.819515306122449
+Spirit Air Lines,8,4.639846743295019
+Spirit Air Lines,9,13.255154639175258
+Spirit Air Lines,10,14.389928986442866
+Spirit Air Lines,11,5.3631746031746035
+Spirit Air Lines,12,10.039188243526942
+Spirit Air Lines,13,9.250176180408738
+Spirit Air Lines,14,12.838627700127065
+Spirit Air Lines,15,6.740943267259056
+Spirit Air Lines,16,-0.28040540540540543
+Spirit Air Lines,17,8.887761572606214
+Spirit Air Lines,18,10.441323345817727
+Spirit Air Lines,19,9.295103092783505
+Spirit Air Lines,20,16.972295514511874
+Spirit Air Lines,21,32.689320388349515
+Spirit Air Lines,22,33.53984753984754
+Spirit Air Lines,23,23.700953678474114
+Spirit Air Lines,24,15.220050441361916
+Spirit Air Lines,25,7.584423676012461
+Spirit Air Lines,26,1.737171464330413
+Spirit Air Lines,27,26.46485473289597
+Spirit Air Lines,28,16.9127432517263
+Spirit Air Lines,29,-6.300534759358289
+Spirit Air Lines,30,0.08775731310942579
+Spirit Air Lines,31,14.638176638176638
+United Air Lines Inc.,1,17.809016393442622
+United Air Lines Inc.,2,18.847266154541348
+United Air Lines Inc.,3,14.82664695945946
+United Air Lines Inc.,4,6.712796402289452
+United Air Lines Inc.,5,15.19711641919518
+United Air Lines Inc.,6,24.793268231872013
+United Air Lines Inc.,7,11.824066390041494
+United Air Lines Inc.,8,14.185838870431894
+United Air Lines Inc.,9,17.352256863657516
+United Air Lines Inc.,10,22.194467905405407
+United Air Lines Inc.,11,9.892018779342724
+United Air Lines Inc.,12,16.41917626217892
+United Air Lines Inc.,13,14.62927927927928
+United Air Lines Inc.,14,32.21405295315682
+United Air Lines Inc.,15,18.803676025045444
+United Air Lines Inc.,16,14.579374014861518
+United Air Lines Inc.,17,25.69149157478677
+United Air Lines Inc.,18,12.007187063286086
+United Air Lines Inc.,19,15.800525509086928
+United Air Lines Inc.,20,35.318067226890754
+United Air Lines Inc.,21,21.655227454110136
+United Air Lines Inc.,22,43.53429383116883
+United Air Lines Inc.,23,18.61402329749104
+United Air Lines Inc.,24,19.819450143619203
+United Air Lines Inc.,25,32.797049441786285
+United Air Lines Inc.,26,8.688807418589604
+United Air Lines Inc.,27,13.113654946852003
+United Air Lines Inc.,28,27.85307676889156
+United Air Lines Inc.,29,6.292496171516079
+United Air Lines Inc.,30,15.371467953135769
+United Air Lines Inc.,31,11.923788265306122

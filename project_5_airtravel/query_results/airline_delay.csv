@@ -1,0 +1,18 @@
+carrier,avg_delay,count(DISTINCT dest)
+Alaska Airlines Inc.,9.090616352201257,71
+Allegiant Air,14.383553670907126,120
+American Airlines Inc.,15.325990125576903,104
+American Eagle Airlines Inc.,17.10887450407183,142
+Atlantic Southeast Airlines,27.361240048386644,116
+Comair Inc.,12.52403860564098,95
+Delta Air Lines Inc.,7.688955184006056,146
+Frontier Airlines Inc.,19.294416243654823,94
+Hawaiian Airlines Inc.,4.609671672181217,18
+JetBlue Airways,30.900758185437756,68
+Mesa Airlines Inc.,19.539335328881727,113
+"Midwest Airline, Inc.",12.379099492235376,99
+Pinnacle Airlines Inc.,13.493331320146963,122
+Skywest Airlines Inc.,27.387226339916886,252
+Southwest Airlines Co.,12.402945766370909,86
+Spirit Air Lines,11.332101616628176,45
+United Air Lines Inc.,19.013742376069455,111
